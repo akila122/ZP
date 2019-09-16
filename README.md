@@ -7,6 +7,6 @@ It's written in plain Java with exstensive usage of BouncyCastles lib and it foc
 * Importing and exporting those keys.
 * Signing X.509 V3 certificate with those keys.
 * Importing and exporting those certificates.
-* Representing all funcionalities in rich GUI.
+* Representing all functionalities in rich GUI.
 ## NOTE:
 Check spec for more info
